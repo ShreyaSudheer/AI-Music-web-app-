@@ -1,0 +1,19 @@
+body{
+    background-image: url('Background.jpg');
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+}
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+}
